@@ -39,3 +39,11 @@ Sliding Window (Variable Size)
 *   [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 *   [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 *   [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)
+
+Prefix Sum
+----------
+
+*   [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
+*   [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+*   [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
+*   [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
