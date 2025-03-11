@@ -45,7 +45,7 @@ class Solution {
         merge(arr, low, mid, high);  // merging sorted halves
     }
 }
-public class tUf {
+public class MergeSort {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         int n = 7;
