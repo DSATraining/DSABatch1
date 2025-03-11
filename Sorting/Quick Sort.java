@@ -40,7 +40,7 @@ class Solution {
     }
 }
 
-public class tUf {
+public class QuickSort {
     public static void main(String args[]) {
         List<Integer> arr = new ArrayList<>();
         arr = Arrays.asList(new Integer[] {4, 6, 2, 5, 7, 9, 1, 3});
